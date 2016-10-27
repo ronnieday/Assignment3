@@ -1,0 +1,5 @@
+Simple MIDI Synth
+Ron Guglielmone
+
+This synth uses a FM paradigm, and was designed using the JUCE framework.  I ran into a lot of issues trying to implement this project, and need to keep working on it more.  I have polyphony and MIDI input successfully implemented, and I have the ability to port to AU format.  However, when I try and combine all of the above functionality, I am running into issues.  I need to learn more about the class inheritance structure in C++ and JUCE specifically. 
+
